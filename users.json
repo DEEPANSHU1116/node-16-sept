@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Gregorius",
+        "last_name": "Mapston",
+        "email": "gmapston0@behance.net",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Riley",
+        "last_name": "Bennellick",
+        "email": "rbennellick1@google.ru",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Hunter",
+        "last_name": "Chattaway",
+        "email": "hchattaway2@columbia.edu",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Moyra",
+        "last_name": "Killingbeck",
+        "email": "mkillingbeck3@squarespace.com",
+        "gender": "Agender"
+    },
+    {
+        "id": 5,
+        "first_name": "Julieta",
+        "last_name": "Yakunikov",
+        "email": "jyakunikov4@qq.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Arny",
+        "last_name": "Beazer",
+        "email": "abeazer5@stumbleupon.com",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Clare",
+        "last_name": "Tomlett",
+        "email": "ctomlett6@washington.edu",
+        "gender": "Agender"
+    },
+    {
+        "id": 8,
+        "first_name": "Kayne",
+        "last_name": "Caesman",
+        "email": "kcaesman7@mail.ru",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Cathee",
+        "last_name": "Soans",
+        "email": "csoans8@gravatar.com",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Andrey",
+        "last_name": "McGaraghan",
+        "email": "amcgaraghan9@google.co.jp",
+        "gender": "Male"
+    }
+]
